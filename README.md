@@ -1,1 +1,2 @@
 # Proyecto_final_PDS_SantiagoGarcia_Salomon
+En esta guía de laboratorio se ha implementado la transformada de Fourier de tiempo corto STFT, con el fin de poder realizar el espectrograma de un audio. Donde se se le va a pedir a los estudiantes que realicen un análisis a este para que luego se le aplique a ese audio un filtro FIR pasabajas a una frecuencia de corte escogida por el alumno. La idea es que a partir de los resultados obtenidos se pueda entender una aplicación de un filtro pasabaja y que información nos puede suministrar un espectrograma.
